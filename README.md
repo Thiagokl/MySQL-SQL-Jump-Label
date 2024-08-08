@@ -1,2 +1,2 @@
-# SQL1e2
-SQL Intermediário
+# SQL
+### Treinamento JUMP START Aulas SQL
